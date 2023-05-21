@@ -1,0 +1,4 @@
+#Sun May 21 22:31:55 IST 2023
+base.0=/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

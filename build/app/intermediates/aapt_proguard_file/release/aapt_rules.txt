@@ -1,0 +1,3 @@
+-keep class android.app.Application { <init>(); }
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class com.example.breakdown_client_app_2.MainActivity { <init>(); }

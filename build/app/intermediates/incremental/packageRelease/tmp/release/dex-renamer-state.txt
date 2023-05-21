@@ -1,0 +1,4 @@
+#Sat May 20 09:40:16 IST 2023
+base.0=/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
