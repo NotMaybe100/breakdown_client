@@ -13,17 +13,17 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/raunakraj/breakdown_client_app_2/android/app/src/debug/AndroidManifest.xml:6:5-66
-15-->/Users/raunakraj/breakdown_client_app_2/android/app/src/debug/AndroidManifest.xml:6:22-64
+15-->/Users/raunakraj/app_dev/breakdown_client/android/app/src/debug/AndroidManifest.xml:6:5-66
+15-->/Users/raunakraj/app_dev/breakdown_client/android/app/src/debug/AndroidManifest.xml:6:22-64
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->/Users/raunakraj/breakdown_client_app_2/android/app/src/main/AndroidManifest.xml:2:5-79
-16-->/Users/raunakraj/breakdown_client_app_2/android/app/src/main/AndroidManifest.xml:2:22-76
+16-->/Users/raunakraj/app_dev/breakdown_client/android/app/src/main/AndroidManifest.xml:2:5-79
+16-->/Users/raunakraj/app_dev/breakdown_client/android/app/src/main/AndroidManifest.xml:2:22-76
 17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-17-->/Users/raunakraj/breakdown_client_app_2/android/app/src/main/AndroidManifest.xml:3:5-81
-17-->/Users/raunakraj/breakdown_client_app_2/android/app/src/main/AndroidManifest.xml:3:22-78
+17-->/Users/raunakraj/app_dev/breakdown_client/android/app/src/main/AndroidManifest.xml:3:5-81
+17-->/Users/raunakraj/app_dev/breakdown_client/android/app/src/main/AndroidManifest.xml:3:22-78
 18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-18-->[:geolocator_android] /Users/raunakraj/breakdown_client_app_2/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
-18-->[:geolocator_android] /Users/raunakraj/breakdown_client_app_2/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
+18-->[:geolocator_android] /Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-77
+18-->[:geolocator_android] /Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-74
 19
 20    <application
 21        android:name="android.app.Application"
@@ -66,15 +66,15 @@
 57            android:value="2" />
 58
 59        <service
-59-->[:geolocator_android] /Users/raunakraj/breakdown_client_app_2/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-16:56
+59-->[:geolocator_android] /Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-16:56
 60            android:name="com.baseflow.geolocator.GeolocatorLocationService"
-60-->[:geolocator_android] /Users/raunakraj/breakdown_client_app_2/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-77
+60-->[:geolocator_android] /Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-77
 61            android:enabled="true"
-61-->[:geolocator_android] /Users/raunakraj/breakdown_client_app_2/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-35
+61-->[:geolocator_android] /Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-35
 62            android:exported="false"
-62-->[:geolocator_android] /Users/raunakraj/breakdown_client_app_2/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-37
+62-->[:geolocator_android] /Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-37
 63            android:foregroundServiceType="location" />
-63-->[:geolocator_android] /Users/raunakraj/breakdown_client_app_2/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-53
+63-->[:geolocator_android] /Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-53
 64
 65        <uses-library
 65-->[androidx.window:window:1.0.0-beta04] /Users/raunakraj/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40

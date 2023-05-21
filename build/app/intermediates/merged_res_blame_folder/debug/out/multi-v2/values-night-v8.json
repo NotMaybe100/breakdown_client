@@ -4,7 +4,7 @@
             "outputFile": "com.example.breakdown_client_app_2.app-mergeDebugResources-11:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/raunakraj/breakdown_client_app_2/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/raunakraj/app_dev/breakdown_client/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
