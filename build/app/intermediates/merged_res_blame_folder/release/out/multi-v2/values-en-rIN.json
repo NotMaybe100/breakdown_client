@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.breakdown_client_app_2.app-mergeReleaseResources-9:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.example.breakdown_client_app_2.app-mergeReleaseResources-11:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "/Users/raunakraj/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res/values-en-rIN/values-en-rIN.xml",

@@ -4,10 +4,10 @@
     minSdkVersion="16"
     targetSdkVersion="33"
     shrinking="true"
-    mergedManifest="/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
-    manifestMergeReport="/Users/raunakraj/breakdown_client_app_2/build/app/outputs/logs/manifest-merger-release-report.txt"
-    proguardFiles="/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0:/Users/raunakraj/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
-    partialResultsDir="/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/lint_vital_partial_results/release/out">
+    mergedManifest="/Users/raunakraj/app_dev/breakdown_client/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
+    manifestMergeReport="/Users/raunakraj/app_dev/breakdown_client/build/app/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/raunakraj/app_dev/breakdown_client/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0:/Users/raunakraj/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/Users/raunakraj/app_dev/breakdown_client/build/app/intermediates/lint_vital_partial_results/release/out">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
@@ -32,9 +32,9 @@
         value="android.app.Application" />
   </manifestPlaceholders>
   <mainArtifact
-      classOutputs="/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/javac/release/classes:/Users/raunakraj/breakdown_client_app_2/build/app/tmp/kotlin-classes/release:/Users/raunakraj/breakdown_client_app_2/build/app/kotlinToolingMetadata:/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
+      classOutputs="/Users/raunakraj/app_dev/breakdown_client/build/app/intermediates/javac/release/classes:/Users/raunakraj/app_dev/breakdown_client/build/app/tmp/kotlin-classes/release:/Users/raunakraj/app_dev/breakdown_client/build/app/kotlinToolingMetadata:/Users/raunakraj/app_dev/breakdown_client/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
       applicationId="com.example.breakdown_client_app_2"
-      generatedSourceFolders="/Users/raunakraj/breakdown_client_app_2/build/app/generated/ap_generated_sources/release/out:/Users/raunakraj/breakdown_client_app_2/build/app/generated/aidl_source_output_dir/release/out:/Users/raunakraj/breakdown_client_app_2/build/app/generated/source/buildConfig/release:/Users/raunakraj/breakdown_client_app_2/build/app/generated/renderscript_source_output_dir/release/out"
-      generatedResourceFolders="/Users/raunakraj/breakdown_client_app_2/build/app/generated/res/rs/release:/Users/raunakraj/breakdown_client_app_2/build/app/generated/res/resValues/release">
+      generatedSourceFolders="/Users/raunakraj/app_dev/breakdown_client/build/app/generated/ap_generated_sources/release/out:/Users/raunakraj/app_dev/breakdown_client/build/app/generated/aidl_source_output_dir/release/out:/Users/raunakraj/app_dev/breakdown_client/build/app/generated/source/buildConfig/release:/Users/raunakraj/app_dev/breakdown_client/build/app/generated/renderscript_source_output_dir/release/out"
+      generatedResourceFolders="/Users/raunakraj/app_dev/breakdown_client/build/app/generated/res/rs/release:/Users/raunakraj/app_dev/breakdown_client/build/app/generated/res/resValues/release">
   </mainArtifact>
 </variant>

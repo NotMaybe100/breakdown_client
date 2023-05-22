@@ -1,8 +1,21 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/raunakraj/breakdown_client_app_2/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/raunakraj/app_dev/breakdown_client/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/raunakraj/app_dev/breakdown_client/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/raunakraj/app_dev/breakdown_client/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+  <library
+      name="/Users/raunakraj/app_dev/breakdown_client/android@@:geolocator_android::release"
+      jars="/Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/.transforms/3dbe01cf7e75d5318cfcf421ea920f3a/transformed/out/jars/classes.jar:/Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/.transforms/3dbe01cf7e75d5318cfcf421ea920f3a/transformed/out/jars/libs/R.jar"
+      resolved="com.baseflow.geolocator:geolocator_android:unspecified"
+      folder="/Users/raunakraj/app_dev/breakdown_client/build/geolocator_android/.transforms/3dbe01cf7e75d5318cfcf421ea920f3a/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
   <library
       name="io.flutter:flutter_embedding_release:1.0.0-b4fb11214dd2dda6ce012dd98ea498e9e8b91262@jar"
       jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_release/1.0.0-b4fb11214dd2dda6ce012dd98ea498e9e8b91262/fca7ab8a6415508af2225862319ca560dec653f/flutter_embedding_release-1.0.0-b4fb11214dd2dda6ce012dd98ea498e9e8b91262.jar"
@@ -61,22 +74,6 @@
       name="io.flutter:x86_64_release:1.0.0-b4fb11214dd2dda6ce012dd98ea498e9e8b91262@jar"
       jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/io.flutter/x86_64_release/1.0.0-b4fb11214dd2dda6ce012dd98ea498e9e8b91262/5e3d21914cae582830e4d837bba2a7993395615b/x86_64_release-1.0.0-b4fb11214dd2dda6ce012dd98ea498e9e8b91262.jar"
       resolved="io.flutter:x86_64_release:1.0.0-b4fb11214dd2dda6ce012dd98ea498e9e8b91262"/>
-  <library
-      name="org.jetbrains.kotlin:kotlin-stdlib:1.7.10@jar"
-      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.7.10/d2abf9e77736acc4450dc4a3f707fa2c10f5099d/kotlin-stdlib-1.7.10.jar"
-      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.7.10"/>
-  <library
-      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10@jar"
-      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.10/bac80c520d0a9e3f3673bc2658c6ed02ef45a76a/kotlin-stdlib-common-1.7.10.jar"
-      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10"/>
-  <library
-      name="org.jetbrains:annotations:13.0@jar"
-      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
-      resolved="org.jetbrains:annotations:13.0"/>
-  <library
-      name="androidx.lifecycle:lifecycle-common-java8:2.2.0@jar"
-      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar"
-      resolved="androidx.lifecycle:lifecycle-common-java8:2.2.0"/>
   <library
       name="androidx.fragment:fragment:1.1.0@aar"
       jars="/Users/raunakraj/.gradle/caches/transforms-3/75f94412898c7559d34d7edbbeaeb394/transformed/fragment-1.1.0/jars/classes.jar"
@@ -156,6 +153,27 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
+      name="androidx.versionedparcelable:versionedparcelable:1.1.1@aar"
+      jars="/Users/raunakraj/.gradle/caches/transforms-3/47ecd4e588b99ef3b772f04d5aa6c9b7/transformed/versionedparcelable-1.1.1/jars/classes.jar"
+      resolved="androidx.versionedparcelable:versionedparcelable:1.1.1"
+      folder="/Users/raunakraj/.gradle/caches/transforms-3/47ecd4e588b99ef3b772f04d5aa6c9b7/transformed/versionedparcelable-1.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.collection:collection:1.1.0@jar"
+      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar"
+      resolved="androidx.collection:collection:1.1.0"/>
+  <library
+      name="androidx.lifecycle:lifecycle-common-java8:2.2.0@jar"
+      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar"
+      resolved="androidx.lifecycle:lifecycle-common-java8:2.2.0"/>
+  <library
       name="androidx.lifecycle:lifecycle-runtime:2.2.0@aar"
       jars="/Users/raunakraj/.gradle/caches/transforms-3/793c4fa41fed024d54f0246b25b34906/transformed/lifecycle-runtime-2.2.0/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-runtime:2.2.0"
@@ -229,23 +247,6 @@
       jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar"
       resolved="androidx.arch.core:core-common:2.1.0"/>
   <library
-      name="androidx.versionedparcelable:versionedparcelable:1.1.1@aar"
-      jars="/Users/raunakraj/.gradle/caches/transforms-3/47ecd4e588b99ef3b772f04d5aa6c9b7/transformed/versionedparcelable-1.1.1/jars/classes.jar"
-      resolved="androidx.versionedparcelable:versionedparcelable:1.1.1"
-      folder="/Users/raunakraj/.gradle/caches/transforms-3/47ecd4e588b99ef3b772f04d5aa6c9b7/transformed/versionedparcelable-1.1.1"
-      manifest="AndroidManifest.xml"
-      resFolder="res"
-      assetsFolder="assets"
-      lintJar="lint.jar"
-      publicResources="public.txt"
-      symbolFile="R.txt"
-      externalAnnotations="annotations.zip"
-      proguardRules="proguard.txt"/>
-  <library
-      name="androidx.collection:collection:1.1.0@jar"
-      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar"
-      resolved="androidx.collection:collection:1.1.0"/>
-  <library
       name="androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar"
       jars="/Users/raunakraj/.gradle/caches/transforms-3/03b9b3b952540ee8cedf6c096276d934/transformed/lifecycle-viewmodel-2.1.0/jars/classes.jar"
       resolved="androidx.lifecycle:lifecycle-viewmodel:2.1.0"
@@ -280,6 +281,83 @@
       jars="/Users/raunakraj/.gradle/caches/transforms-3/cda2a1ca4d3bd6aae60d8d586ec4f3ff/transformed/jetified-tracing-1.0.0/jars/classes.jar"
       resolved="androidx.tracing:tracing:1.0.0"
       folder="/Users/raunakraj/.gradle/caches/transforms-3/cda2a1ca4d3bd6aae60d8d586ec4f3ff/transformed/jetified-tracing-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.7.10@jar"
+      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.7.10/d2abf9e77736acc4450dc4a3f707fa2c10f5099d/kotlin-stdlib-1.7.10.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.7.10"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10@jar"
+      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.10/bac80c520d0a9e3f3673bc2658c6ed02ef45a76a/kotlin-stdlib-common-1.7.10.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="/Users/raunakraj/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
+  <library
+      name="com.google.android.gms:play-services-location:17.0.0@aar"
+      jars="/Users/raunakraj/.gradle/caches/transforms-3/66b0041439e8822f9b33c14e9dfd6828/transformed/jetified-play-services-location-17.0.0/jars/classes.jar"
+      resolved="com.google.android.gms:play-services-location:17.0.0"
+      folder="/Users/raunakraj/.gradle/caches/transforms-3/66b0041439e8822f9b33c14e9dfd6828/transformed/jetified-play-services-location-17.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-base:17.0.0@aar"
+      jars="/Users/raunakraj/.gradle/caches/transforms-3/e72594a5e1ad3cdd56ec026860a0aae9/transformed/jetified-play-services-base-17.0.0/jars/classes.jar"
+      resolved="com.google.android.gms:play-services-base:17.0.0"
+      folder="/Users/raunakraj/.gradle/caches/transforms-3/e72594a5e1ad3cdd56ec026860a0aae9/transformed/jetified-play-services-base-17.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-places-placereport:17.0.0@aar"
+      jars="/Users/raunakraj/.gradle/caches/transforms-3/36da9e43768fe4db2b6907cb69a29442/transformed/jetified-play-services-places-placereport-17.0.0/jars/classes.jar"
+      resolved="com.google.android.gms:play-services-places-placereport:17.0.0"
+      folder="/Users/raunakraj/.gradle/caches/transforms-3/36da9e43768fe4db2b6907cb69a29442/transformed/jetified-play-services-places-placereport-17.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-tasks:17.0.0@aar"
+      jars="/Users/raunakraj/.gradle/caches/transforms-3/414a428115fd871c36df5aa3edfbb394/transformed/jetified-play-services-tasks-17.0.0/jars/classes.jar"
+      resolved="com.google.android.gms:play-services-tasks:17.0.0"
+      folder="/Users/raunakraj/.gradle/caches/transforms-3/414a428115fd871c36df5aa3edfbb394/transformed/jetified-play-services-tasks-17.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-basement:17.0.0@aar"
+      jars="/Users/raunakraj/.gradle/caches/transforms-3/63b6551e75d5dac90ab4486da5ee1385/transformed/jetified-play-services-basement-17.0.0/jars/classes.jar"
+      resolved="com.google.android.gms:play-services-basement:17.0.0"
+      folder="/Users/raunakraj/.gradle/caches/transforms-3/63b6551e75d5dac90ab4486da5ee1385/transformed/jetified-play-services-basement-17.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
