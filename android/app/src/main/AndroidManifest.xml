@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
-        android:label="breakdown_client_app_2"
+        android:label="breakdown_client"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

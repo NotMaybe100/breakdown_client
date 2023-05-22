@@ -31,7 +31,7 @@
 22-->[androidx.core:core:1.6.0] /Users/raunakraj/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 23        android:debuggable="true"
 24        android:icon="@mipmap/ic_launcher"
-25        android:label="breakdown_client_app_2" >
+25        android:label="breakdown_client" >
 26        <activity
 27            android:name="com.example.breakdown_client_app_2.MainActivity"
 28            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
